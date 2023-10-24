@@ -4,4 +4,4 @@
 *.order
 *.symvers
 *.mod
-*.vscode
+.vscode/
