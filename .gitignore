@@ -6,3 +6,4 @@
 *.mod
 *.mod.*
 .vscode/
+*.mod.c
