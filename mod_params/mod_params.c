@@ -9,7 +9,6 @@ static int iparam = 0;
 module_param(iparam, int, 0);
 
 static int k = 0;
-static int nparam;
 module_param_named(nparam, k, int, 0);
 
 static bool bparam = true;
